@@ -1,0 +1,24 @@
+Springboot -Completed
+SpringSecurity - Completed
+Profile -Completed
+Mysql -Completed
+Exception handling 
+---------------------
+a)Custom Exception  -Completed
+b)Global exception  - Next
+
+custom Exception---> Business exception for service class  , Controller exception for controller class
+
+
+//-------------
+
+Junit -Testing  -Completed
+
+//-----------------------
+
+Git 
+
+git --version
+2.9.2
+
+//----------------------
